@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=ChungHyo_Jung&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<h3 align="center">Hi! I'm Hyo </h3>
+<h3 align="center">Hi! I'm Chan! </h3>
 <p align="center">
   <a href="alzkdpf000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com)"/></a>&nbsp
 <a href="/"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
