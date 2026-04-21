@@ -1,33 +1,57 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Jeong%20Chanho&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=ChungHyo_Jung&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
+
 
 <h3 align="center">Hi! I'm Chan! </h3>
+
 <p align="center">
-  <a href="mailto:jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
+
+  <a href="alzkdpf000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com)"/></a>&nbsp
+
+<a href="/"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+
+<h4 align="center"> </h4>
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
-<br>
 
-<p align="center">
+
+<h2 align="center">🛠️Tech Stack🛠️</h2>
+
+<p align="center"> 
+
   
-| Category | Stack |
-| :--- | :--- |
-| **Back-End** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> |
-| **Front-End** | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
-| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
-| **Infra** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
+
+| Back-End | Front-End | Database | IDE | InfraStructure |
+
+| --- | --- | --- | --- | --- |
+
+| <span><img alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span> <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></span> <span><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></span> <span><img src="https://img.shields.io/badge/-JSP-red"/></span>  <span><img src="https://img.shields.io/badge/-Node.js-green"/></span> <span><img src="https://img.shields.io/badge/JSON-00000?style=round-square&logo=JSON&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/ThymeLeaf-005F0F?style=round-square&logo=ThymeLeaf&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>  <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></span>  <span><img src="https://img.shields.io/badge/-MyBatis-orange"/></span> <span><img src="https://img.shields.io/badge/PostgreSQL-green?style=flat-square&logo=postgresql&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Redis-brown?style=flat-square&logo=redis&logoColor=white"/></span>| <span><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=round-square&logo=Eclipse&logoColor=white"/></span>  <span><img src="https://img.shields.io/badge/-DBeaver-brightgreen"/></span> <span><img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=round-square&logo=Sourcetree&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></span> <br> <span><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></span> |  <span><img src="https://img.shields.io/badge/AWS S3-d95a53.svg?style=round-square&logo=AWS&logoColor=white"/></span>  <span><img src="https://img.shields.io/badge/AWS EC2-0052CC.svg?style=round-square&logo=AWS&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/AWS IAM-98ef66.svg?style=round-square&logo=AWS&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Docker-blue.svg?style=round-square&logo=docker&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Github Action-black.svg?style=round-square&logo=Git&logoColor=white"/></span>  <span><img src="https://img.shields.io/badge/Nginx-03933a.svg?style=round-square&logo=Nginx&logoColor=white"/></span>|
+
+  </p>
+
+
+
+<p align="center">
+
+  
+
+| Communication | Management | Environment | API |
+
+| --- | --- | --- | --- |
+
+| <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-yml-brightgreen"/></span> | <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black"/></span>  <span><img src="https://img.shields.io/badge/JUnit-25A162?style=round-square&logo=JUnit&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-JDBC-blue"/> <span><img src="https://img.shields.io/badge/-WebSocket-orange"/> <span><img src="https://img.shields.io/badge/-REST-green"/> <span><img src="https://img.shields.io/badge/-Kakao%20Map-yellow"/></span> <span><img src="https://img.shields.io/badge/-KAKAO login-gray"/></span>  <span><img src="https://img.shields.io/badge/-BootPay-sky"/></span> <span><img src="https://img.shields.io/badge/-SMTP GAMIL-red"/></span> <span><img src="https://img.shields.io/badge/-Naver login-green"/></span> <span><img src="https://img.shields.io/badge/-Google login-sky"/></span> <span><img src="https://img.shields.io/badge/-OAuth2-gray"/></span> <span><img src="https://img.shields.io/badge/-JWT-F08080"/></span> <span><img src="https://img.shields.io/badge/-Spring Security-D2691E"/></span>|
+
+
 
 </p>
+
+  
 
 <br>
 
-<h2 align="center">✨ My Github Stats ✨</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanho8629-lgtm&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanho8629-lgtm&layout=compact&exclude_lang=C,CPP"/>
-</p>
+
+<h2 align="center"> ✨My Github Stats✨ </h2>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alzkdpf000&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzkdpf000&layout=compact&exclude_lang=C,CPP"></p> 
