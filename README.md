@@ -1,18 +1,20 @@
 # 🌌 JEONG CHANHO
 **Back-End Developer | Problem Solver**
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a0033,330066&height=300&section=header&text=JEONG%20CHANHO&fontAlign=50&fontAlignY=40&fontSize=80&fontColor=ffffff&desc=Dreaming%20Backend%20Developer&descAlign=50&descAlignY=65&descSize=20&descColor=00ffcc)
+
 ---
 
 ### 📬 Contact
-- **Email**: jh940412@gmail.com
-- **Notion**: [포트폴리오 바로가기]
+- 📧 **Email**: jh940412@gmail.com
+- 📝 **Notion**: [포트폴리오 바로가기]
 
 ---
 
 ### 🛠 Tech Stack
 | Category | Skills |
 | :--- | :--- |
-| **Back-End** | `Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA` `MyBatis` `OAuth2.0` `JWT` `Auth0` `Spring Mail` `AOP` `FastAPI` `Python` `JSON` `Redis` `REST API` `WebSocket` `RabbitMQ` |
+| **Back-End** | `Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA` `MyBatis` `OAuth2.0` `JWT` `Auth0` `FastAPI` `Python` `JSON` `Redis` `REST API` `WebSocket` `RabbitMQ` |
 | **Front-End** | `JavaScript` `CSS` `JQuery` `Thymeleaf` `React` `HTML5` |
 | **Database** | `MySQL` `PostgreSQL` `MariaDB` |
 | **AI / Tools** | `LangChain` `LLM` `RAG` `VS Code` `Eclipse` `DBeaver` `SourceTree` |
