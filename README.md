@@ -1,3 +1,6 @@
+![Header Banner](./banner-premium.svg)
+
+
 # JEONG CHANHO
 
 <div align="center">
