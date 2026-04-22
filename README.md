@@ -1,4 +1,4 @@
-![Header Banner](./banner-premium.svg)
+![JEONG CHANHO Banner](./banner_premium.png)
 
 
 # JEONG CHANHO
