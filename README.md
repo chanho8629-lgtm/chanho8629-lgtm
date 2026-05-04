@@ -1,144 +1,121 @@
-![JEONG CHANHO Banner](./banner_premium.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2E86C1&height=280&section=header&text=JEONG%20CHANHO&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Back-End%20Developer&descAlign=50&descAlignY=58&descSize=22)
 
+<h3 align="center">안녕하세요! 백엔드 개발자 정찬호입니다 👋</h3>
 
-# JEONG CHANHO
+<p align="center">
+  <a href="mailto:chanho8629@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/chanho8629-lgtm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>&nbsp;
+  <a href="/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
+<br>
 
-### 💻 Back-End Developer | Problem Solver
+---
+
+## 🙋 About Me
 
 ```
-🚀 Crafting Scalable Backend Solutions
+🔭  현재  :  Spring Boot 기반 EV P2P 에너지 거래 플랫폼 개발 중
+🌱  관심사  :  백엔드 아키텍처, RESTful API 설계, DB 최적화
+💡  목표  :  읽기 쉽고, 유지보수하기 좋은 코드를 작성하는 개발자
+📍  위치  :  Seoul, Korea
 ```
 
-</div>
+---
+
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+
+<p align="center">
+
+| Back-End | Front-End | Database | DevTools | Infrastructure |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-FF6B35?style=for-the-badge&logoColor=white) | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+
+</p>
 
 ---
 
-## 👋 About Me
+## 📊 GitHub Stats
 
-Backend engineer with a passion for building **scalable, secure, and efficient systems**. Specialized in Spring Boot architecture and modern backend patterns. I believe in writing clean, maintainable code that solves real-world problems.
-
-**Location:** Seoul, Korea | **Focus:** Enterprise Backend Development
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-### Backend Framework
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### API & Authentication
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth2.0](https://img.shields.io/badge/OAuth2.0-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
-
-### Database & Cache
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ORM & Data
-![JPA](https://img.shields.io/badge/JPA-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-3776AB?style=for-the-badge&logo=java&logoColor=white)
-
-### Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Additional Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanho8629-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&icon_color=2E86C1&text_color=e5e7eb" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanho8629-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=e5e7eb" height="180"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Projects
 
-<div align="center">
+### ⚡ GG# — 전기차 P2P 에너지 거래 플랫폼
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanho8629-lgtm&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=e5e7eb)
+> EV 사용자들이 남은 배터리 에너지를 서로 거래하고 V2G로 한전에 전기를 판매하는 통합 플랫폼
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanho8629-lgtm&layout=compact&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e5e7eb)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/logo-ggshop.png" width="120">
+</p>
 
-</div>
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2026.02 ~ 2026.04 |
+| **역할** | 백엔드 개발 (회원 인증·EV 충전기·V2G 거래·P2P 게시판) |
+| **Tech** | Java 17, Spring Boot 3.5, MyBatis, MySQL, Thymeleaf, Kakao OAuth |
 
----
+**기획 배경**
 
-## 🛠️ Technical Expertise
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/ev-market-growth.jpg" width="600">
+</p>
 
-| Category | Details |
-|----------|---------|
-| **Backend Architecture** | Spring Boot, Spring Security, Microservices |
-| **Authentication** | OAuth2.0, JWT, Auth0, Session Management |
-| **Data Persistence** | JPA, MyBatis, Spring Data, Transaction Management |
-| **Cloud Services** | AWS EC2, AWS S3, AWS RDS |
-| **DevOps** | Docker, Docker Compose, Nginx, CI/CD |
-| **API Development** | RESTful API, JSON, FastAPI, API Documentation |
-| **Performance** | Redis Caching, Database Optimization, Query Performance |
-| **Security** | SQL Injection Prevention, XSS Protection, CORS |
+> 양방향 EV 충전기 시장 CAGR **24.3%** 성장 — 국내 P2P 에너지 거래 플랫폼 부재 문제를 해결하고자 기획
 
----
+**P2P 비즈니스 모델**
 
-## 💡 Development Philosophy
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/p2p-business-model.jpg" width="550">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/p2p-v2g.png" width="300">
+</p>
 
-> **"Write code that is not just functional, but maintainable, scalable, and secure."**
+**주요 구현 기능**
 
-### My Principles
-- 🎯 **Goal-Oriented**: Clear understanding of business requirements
-- 🔒 **Security First**: Security is built-in, not bolted-on
-- ⚡ **Performance Conscious**: Optimized for speed and efficiency
-- 📚 **Continuous Learning**: Staying updated with latest technologies
-- 🤝 **Team Collaboration**: Clear communication and knowledge sharing
-- 📖 **Code Quality**: Clean code, proper documentation, and best practices
+- 단계별 로그인 흐름 (이메일 → 신규/기존 자동 분기) + **카카오 OAuth 2.0**
+- EV 충전기 CRUD + UID 중복확인 **AJAX API**
+- ZZ1 **V2G 에너지 기여** (kWh·판매금액 입력 → 거래 등록)
+- P2P 게시판 CRUD + **파일 업로드** (Thumbnailator) + 태그 + 댓글
 
----
+**서비스 플로우차트**
 
-## 📈 Key Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/flow_01.png" width="700">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/flow_05.png" width="700">
+</p>
 
-```
-Languages: Java, Python, JavaScript
-Databases: MySQL, PostgreSQL, MariaDB
-Cloud Platform: AWS (EC2, S3, RDS)
-Years of Experience: Problem-solving & Backend Development
-Contribution: Open to collaboration and knowledge sharing
-```
+**ERD**
 
-
-| <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/></span> <span><img src="https://img.shields.io/badge/-JSP-red"/></span>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=round-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-green"/> <img src="https://img.shields.io/badge/JWT-black?style=round-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit-25A162?style=round-square&logo=junit5&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-00000?style=round-square&logo=JSON&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=black"/></span> | <img src="https://img.shields.io/badge/MySQL-005C84?style=round-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=round-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-orange?style=round-square"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"/> | <span><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=round-square&logo=Eclipse&logoColor=white"/></span> <img src="https://img.shields.io/badge/VS Code-007ACC?style=round-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=round-square&logo=intellijidea&logoColor=white"/> <span><img src="https://img.shields.io/badge/-DBeaver-brightgreen"/></span> <span><img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=round-square&logo=Sourcetree&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/ThymeLeaf-005F0F?style=round-square&logo=ThymeLeaf&logoColor=black"/></span> |
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jh940412@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://notion.so)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/chanho8629-lgtm)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chanho8629-lgtm/ggshop/main/docs/images/erd.png" width="700">
+</p>
 
 ---
 
-<div align="center">
+## 📫 Contact
 
-### 🚀 Let's Build Something Amazing Together!
+<p align="center">
+  <a href="mailto:chanho8629@gmail.com">
+    <img src="https://img.shields.io/badge/chanho8629@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Feel free to reach out for discussions, collaborations, or just to say hello.
+<br>
 
-**Made with 💜 by JEONG CHANHO**
-
----
-
-*Last Updated: 2026* | *Profile Version 1.0*
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1E3A5F&height=150&section=footer)
